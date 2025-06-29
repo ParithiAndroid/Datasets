@@ -1,0 +1,8 @@
+user_id,recent_tags,bite_id,bite_tags,label
+U001,"physics,class10,induction",B001,"physics,class10,induction",1
+U001,"physics,class10,induction",B002,"maths,class10,algebra",0
+U001,"physics,class10,induction",B003,"physics,class9,current",0
+U002,"biology,class10,photosynthesis",B004,"biology,class10,photosynthesis",1
+U002,"biology,class10,photosynthesis",B005,"physics,class10,light",0
+U003,"chemistry,class9,acid",B006,"chemistry,class9,acid",1
+U003,"chemistry,class9,acid",B007,"chemistry,class10,base",0
