@@ -29,3 +29,7 @@ U013,"physics,class10,current",B027,"maths,class10,trigonometry",0
 U014,"maths,class9,percentages",B028,"maths,class9,fractions",1
 U014,"maths,class9,percentages",B029,"chemistry,class10,acid",0
 U015,"biology,class10,nutrition",B030,"biology,class10,nutrition",1
+U016,"physics,class10,light",B005,"physics,class10,light",1
+U017,"class10,physics",B005,"physics,class10,light",1
+U018,"physics,class10",B005,"physics,class10,light",1
+U019,"physics,class10,reflection",B005,"physics,class10,light",1
